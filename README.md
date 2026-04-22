@@ -1,5 +1,5 @@
 # SAS-Viya-Overview-The-Data-AI-Life-Cycle
-SAS® Viya® Overview: The Data & AI Life Cycle
+Get hands on experience with some of Viya®'s most popular features in this condensed version of our popular "SAS® Viya® Overview" course.  We'll introduce SAS® Information Catalog, SAS® Data Explorer, SAS® Visual Analytics, SAS® Model Studio, and SAS® Studio as we explore a data set.  
 
 ## Important Information
 
